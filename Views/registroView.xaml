@@ -39,7 +39,7 @@
                         HorizontalOptions="Center"
                         VerticalOptions="Center"
                         WidthRequest="60"/>
-                    <!--<Image HorizontalOptions="Center">
+                    <Image HorizontalOptions="Center">
                         <Image.Source>
                             <FontImageSource
                                 FontFamily="AwesomeSolid"
@@ -47,7 +47,7 @@
                                 Size="44"
                                 Color="#4F3F9b"/>
                         </Image.Source>
-                    </Image>-->
+                    </Image>
                     <Entry
                         Grid.Column="1"
                         Placeholder="NAME"
